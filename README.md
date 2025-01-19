@@ -1,5 +1,6 @@
-<p align="center">Community test</p>
+# Community test
 
+Simple community application to test Laravel 11 vs Laravel 7
 
 ## Installation
 
